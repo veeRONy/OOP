@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Учеба\С++ программы\ООП\MyStorage\MyStorage\Source.cpp(167,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\Учеба\С++ программы\ООП\MyStorage\MyStorage\Source.cpp(269,26): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user\Desktop\Учеба\С++ программы\ООП\MyStorage\MyStorage\Source.cpp(100): warning C4715: MyStorage::getObject: значение возвращается не при всех путях выполнения
+  MyStorage.vcxproj -> C:\Users\user\Desktop\Учеба\С++ программы\ООП\MyStorage\x64\Debug\MyStorage.exe
